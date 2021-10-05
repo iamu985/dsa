@@ -10,6 +10,6 @@ LinkedList.push(data): Inserts the item or data at the start of the list
 LinkedList.append(data): Inserts the item or data at the end of the list
 LinkedList.pop(data, pointer=0): Deletes the node in the list where the pointer is pointed. By default deletes the first node in the list
 LinkedList.printList(): Displays the list
-LinkedList.length = Returns the length of the list
-LinkedList.head = Returns the current head or start of the list
+LinkedList.length: Returns the length of the list
+LinkedList.head: Returns the current head or start of the list
 
