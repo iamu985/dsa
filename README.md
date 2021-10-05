@@ -1,10 +1,13 @@
 # Linked List
 Linked List are linear data structures which consists of a data to be linked with another data with the help of a pointer.
 Here I have implemented link lists in python.
-Main Class:
-LinkedList
-
-Methods:
+<br>
+<ul>
+<li>Main Class:</li>
+    LinkedList
+<br>
+  <br>
+<li>Methods:<l/i>
 <ul>
 <li>LinkedList.insert(data, pointer): Inserts the item where the pointer points</li>
 <li>LinkedList.push(data): Inserts the item or data at the start of the list</li>
